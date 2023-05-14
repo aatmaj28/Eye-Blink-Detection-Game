@@ -1,2 +1,2 @@
 # Eye-Blink-Detection-Game
-My project is an Eye Blink Detection Game. It first detects your face, and if you blink, it displays a "you lose" message. This minor project can be further developed and integrated with driver drowsiness software to enhance safety measures. Experience the fun and potential of eye blink detection technology in gaming and beyond.
+My Eye Blink Detection Game project starts by detecting your face, and if you blink, it displays a "you lose" message. Although a minor project, it holds the potential to be transformed and integrated with driver drowsiness software, contributing to enhanced safety measures. Explore the interactive and adaptable nature of eye blink detection technology in gaming and driver safety applications.
